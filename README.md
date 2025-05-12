@@ -51,8 +51,8 @@ Ever since I got curious about how apps, games, and tech work, I knew I wanted t
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandy&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandy&theme=tokyonight" width="51%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=sandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false&line_height=28" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandy&theme=tokyonight" width="48%" />
 </div>
 
 ---
