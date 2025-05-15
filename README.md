@@ -51,8 +51,12 @@ Ever since I got curious about how apps, games, and tech work, I knew I wanted t
 ### 📈 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=sandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false&line_height=28" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandy&theme=tokyonight" width="48%" />
+   <div style="display: flex; gap: 1%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false&line_height=28" style="height: 200px;" />
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/68246e0b2755c70244f78728?variant=dark" alt="roadmap.sh" style="height: 200px;" />
+  </a>
+</div>
 </div>
 
 ---
